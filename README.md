@@ -11,7 +11,16 @@
 ## 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,django,postgresql,sqlite,selenium" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py" />
+  </a>
+</p>
+
+</br>
+
+## 📖 Currently Learning
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,postgresql,sqlite,selenium" />
   </a>
 </p>
 
